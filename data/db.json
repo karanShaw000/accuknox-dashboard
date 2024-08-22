@@ -1,0 +1,60 @@
+{
+  "widget": [
+    {
+      "id": "1",
+      "name": "CSPM Monitoring",
+      "text": "Sample text for CSPM",
+      "isDisplay": true,
+      "category": "cspm"
+    },
+    {
+      "id": "5",
+      "name": "Cloud Performance",
+      "text": "Additional text for Cloud Stats",
+      "isDisplay": true,
+      "category": "cspm"
+    },
+    {
+      "id": "2",
+      "name": "CWPP Monitoring",
+      "text": "Sample text for CWPP",
+      "isDisplay": true,
+      "category": "cwpp"
+    },
+    {
+      "id": "6",
+      "name": "CWPP Security",
+      "text": "Additional text for CWPP",
+      "isDisplay": true,
+      "category": "cwpp"
+    },
+    {
+      "id": "3",
+      "name": "Image Processing",
+      "text": "Sample text for Image",
+      "isDisplay": true,
+      "category": "image"
+    },
+    {
+      "id": "7",
+      "name": "Image Rendering",
+      "text": "Additional text for Image",
+      "isDisplay": true,
+      "category": "image"
+    },
+    {
+      "id": "4",
+      "name": "Ticket Management",
+      "text": "Sample text for Ticket",
+      "isDisplay": true,
+      "category": "ticket"
+    },
+    {
+      "id": "8",
+      "name": "Ticket Resolution",
+      "text": "Additional text for Ticket",
+      "isDisplay": true,
+      "category": "ticket"
+    }
+  ]
+}
